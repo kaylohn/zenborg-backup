@@ -1,4 +1,4 @@
-<img width="705" height="430" alt="ZenBorg Backup Dashboard" src="https://github.com/user-attachments/assets/2d3e375b-cf48-4c29-9461-46f599c8cddb" />
+<img width="823" height="542" alt="ZenBORG Backup Dashboard" src="https://github.com/user-attachments/assets/72156033-ca3f-43bb-bc90-7d146abff4a3" />
 
 
 # ZenBORG
