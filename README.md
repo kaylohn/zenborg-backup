@@ -1,3 +1,6 @@
+<img width="705" height="430" alt="ZenBorg Backup Dashboard" src="https://github.com/user-attachments/assets/2d3e375b-cf48-4c29-9461-46f599c8cddb" />
+
+
 # ZenBORG
 
 A peaceful, local, deduplicated, and highly secure backup wrapper built on Borg and Zenity.
